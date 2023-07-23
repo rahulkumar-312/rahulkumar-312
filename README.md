@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Highly skilled and detail-oriented front-end developer in creating visually stunning and user-friendly
+websites. Proficient in a wide range of front-end technologies, including HTML, CSS, JavaScript, and
+various frameworks such as React and Angular.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkumar-312&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumar-312" /> </p>
 
